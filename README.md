@@ -10,4 +10,14 @@
 
 ## Citation
 
-`Nguyen, T. T., Dang, M. T., Luong, A. V., Liew, A. W. C., Liang, T., & McCall, J. (2019). Multi-label classification via incremental clustering on an evolving data stream. Pattern Recognition, 95, 96-113.`
+```
+@article{nguyen2019multi,
+  title={Multi-label classification via incremental clustering on an evolving data stream},
+  author={Nguyen, Tien Thanh and Dang, Manh Truong and Luong, Anh Vu and Liew, Alan Wee-Chung and Liang, Tiancai and McCall, John},
+  journal={Pattern Recognition},
+  volume={95},
+  pages={96--113},
+  year={2019},
+  publisher={Elsevier}
+}
+```
